@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Large Data & Models
+data/
+output/
+*.safetensors
+*.bin
+*.zip

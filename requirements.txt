@@ -1,0 +1,15 @@
+# Part 1: Ingestion
+numpy
+scikit-learn
+nltk
+fuzzywuzzy
+python-Levenshtein
+
+# Part 2: Training
+torch
+transformers
+datasets
+peft
+bitsandbytes
+accelerate
+sentencepiece
